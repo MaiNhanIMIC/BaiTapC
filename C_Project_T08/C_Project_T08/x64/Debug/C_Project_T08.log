@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\nhanimic\source\repos\c_project_t08\c_project_t08\main.c(7): warning C4305: 'initializing': truncation from 'int' to 'char'
+  C_Project_T08.vcxproj -> C:\Users\NhanIMIC\source\repos\C_Project_T08\x64\Debug\C_Project_T08.exe
