@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\nhanimic\source\repos\chat-socket\chat-socket\main.c(29): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+c:\users\nhanimic\source\repos\chat-socket\chat-socket\main.c(29): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+  Chat-Socket.vcxproj -> C:\Users\NhanIMIC\source\repos\Chat-Socket\Debug\Chat-Socket.exe
